@@ -25,6 +25,7 @@ Files Included
 - `project_ppt.pdf` – (If available) Project presentation
 
  Example Input
+ 
 Enter a review: "This product is a scam!"
 → 🔴 This review is predicted to be FAKE
 
@@ -32,7 +33,9 @@ Enter a review: "Loved the product and fast delivery!"
 → 🟢 This review is predicted to be GENUINE
 
 📌 Note
+
 This is a beginner-friendly AI project. Accuracy can be improved with more real-world data and advanced models like Logistic Regression or BERT.
 
 Author
+
 Vashitha M – 3rd Year CST Student, SNS College of Engineering
